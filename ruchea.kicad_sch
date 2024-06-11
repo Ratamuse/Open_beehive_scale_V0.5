@@ -3303,7 +3303,7 @@
 	)
 	(global_label "SCL"
 		(shape bidirectional)
-		(at 48.26 33.02 180)
+		(at 48.26 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3313,7 +3313,7 @@
 		)
 		(uuid "41abacb2-e422-4c81-8ece-69b3fab21aaf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -199.39 -67.31 0)
+			(at -199.39 -64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3808,7 +3808,7 @@
 	)
 	(global_label "SDA"
 		(shape bidirectional)
-		(at 48.26 35.56 180)
+		(at 48.26 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3818,7 +3818,7 @@
 		)
 		(uuid "f35a1329-fe9c-44cf-acd0-c4ddfbaacab6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -199.39 -67.31 0)
+			(at -199.39 -69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3987,7 +3987,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical"
+		(property "Footprint" "Empreintes:1725672"
 			(at 143.51 176.53 0)
 			(effects
 				(font
@@ -4331,7 +4331,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical"
+		(property "Footprint" "Empreintes:1725672"
 			(at 265.43 142.24 0)
 			(effects
 				(font
@@ -4406,7 +4406,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Empreintes:1989748"
+		(property "Footprint" "Empreintes:1725656"
 			(at 78.74 63.5 0)
 			(effects
 				(font
@@ -5004,7 +5004,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical"
+		(property "Footprint" "Empreintes:1725672"
 			(at 143.51 139.7 0)
 			(effects
 				(font
@@ -5345,7 +5345,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical"
+		(property "Footprint" "Empreintes:1725672"
 			(at 211.582 141.732 0)
 			(effects
 				(font
@@ -5818,7 +5818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Empreintes:1989764"
+		(property "Footprint" "Empreintes:1725672"
 			(at 63.5 33.02 0)
 			(effects
 				(font
