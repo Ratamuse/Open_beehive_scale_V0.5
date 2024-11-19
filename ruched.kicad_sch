@@ -8852,7 +8852,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0 USB4105-GF-A "
+		(property "Value" "USB_C_Receptacle_USB2.0 USB4105-GF-A"
 			(at 37.0078 27.0256 0)
 			(effects
 				(font
